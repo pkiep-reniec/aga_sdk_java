@@ -4,7 +4,7 @@
 
     <groupId>com.github.pkiep-reniec</groupId>
     <artifactId>aga_sdk_java</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>pe.gob.reniec.aga:aga_sdk_java</name>
@@ -15,7 +15,7 @@
         <url>scm:git:git@github.com:pkiep-reniec/aga_sdk_java.git</url>
         <connection>scm:git:git@github.com:pkiep-reniec/aga_sdk_java.git</connection>
         <developerConnection>scm:git:git@github.com:pkiep-reniec/aga_sdk_java.git</developerConnection>
-        <tag>aga_sdk_java-1.0.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <distributionManagement>
